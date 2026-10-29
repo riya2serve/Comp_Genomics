@@ -9,9 +9,11 @@ How would you address the knowledge gap?
 What hypothesis are you testing?
 What conclusion(s) have you reached?
 
-Parasitic plants exhibit varying degrees of host dependence, that are often accompanied by changed in plastid genome organization and gene content [[1]](#ref1). Hemiparasitic plants, like *Psittacanthus* (Order: Santalales, Family: Loranthaceae), obtain water and mineral nutrients from their hosts while retaining photosynthetic activity. Previous studies of hemiparasitic Santalales have identified plastid gene loss and changes in selective constraint. This included relaxed selection affecting photosynthesis-related genes [[2]](#ref2)[[3]](#ref3). More recently, Morales-Saldaña et al. [[4]](#ref4) documented extensive loss and pseudogenization of plastid *ndh* genes across 5 *Psittacanthus* species. However, many other photosynthetic genes were demonstrated to have remained intact. 
+## Introduction
 
-Whether retained photosynthetic genes in *Psittacanthus* exhibit similar shifts in selective constraints remains unclear. This project tests the hypothesis that a subset of retained plastid photosynthetic genes has experienced relaxed selection; core photosystem genes remain strongly conserved. Alternatively, sleective constraints may be conserved or some genes may exhibit episodic positive selection. I will test these hypotheses using phylogenetic reconstruction, branch-specific dN/dS models, and analyses of selection intensity. 
+The evolution of plant parasitism is often associated with changes in plastid genomes, including gene loss and selective pressures [[1]](#ref1)[[2]](#ref2). These changes vary with the degree of host dependence. Holoparasites rely on their hosts for carbon, whereas hemiparasites retain photosynthesis while obtaining water and mineral nutrients from their hosts [[3]](#ref3). Previous studies have identified relaxed selection in plastid genes of hemiparasitic Santalales[[2]]. Morales-Saldaña et al. (2025) [[4]](#ref4) documented extensive loss and pseudogenization of *ndh* genes in five *Psittacanthus* species (Order: Santalales), while other photosynthetic genes remained intact. However, whether these retained genes have experienced shifts in selective pressure remains unclear.
+
+This project tests the hypothesis that retained plastid photosynthetic genes in *Psittacanthus* have experienced relaxed purifying selection relative to related lineages. I predict weaker purifying selection on some retained genes, while core photosystem genes remain strongly conserved. Alternatively, some genes may exhibit positive selection, which favors beneficial mutations rather than reflecting reduced selective constraint. To distinguish these possibilities, I will compare plastid coding sequences from *Psittacanthus* and related Santalales using branch-specific dN/dS models, HyPhy RELAX, and branch-site tests.
 
 ## II. Methods
 Describe data sources and analyses. Consider including the following components:
@@ -25,8 +27,8 @@ Describe data sources and analyses. Consider including the following components:
 *Note: for both figures and tables make sure to include captions.*
 
 ### IV. References
-<a id="ref1"></a> [1] Smith, J. et al. (2024). Title of the Paper. Journal Name.
-<b id ="ref2"></b> [2]
-<c id ="ref3"></c> [3] 
-<d id="ref4"></d> [4] 
+<a id="ref1"></a> [1] Peterson et al. 2025. 
+<b id ="ref2"></b> [2] Edlund et al. 2025
+<c id ="ref3"></c> [3] Nickrent 2020
+<d id="ref4"></d> [4] Morales-Saldaña et al. 2025. 
 
