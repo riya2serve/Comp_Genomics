@@ -27,8 +27,8 @@ Describe data sources and analyses. Consider including the following components:
 *Note: for both figures and tables make sure to include captions.*
 
 ### IV. References
-<a id="ref1"></a> [1] Peterson et al. 2025. 
-<b id ="ref2"></b> [2] Edlund et al. 2025
-<c id ="ref3"></c> [3] Nickrent 2020
-<d id="ref4"></d> [4] Morales-Saldaña et al. 2025. 
+- <a id="ref1"></a> [1] Peterson et al. 2025. 
+- <b id ="ref2"></b> [2] Edlund et al. 2025
+- <c id ="ref3"></c> [3] Nickrent 2020
+- <d id="ref4"></d> [4] Morales-Saldaña et al. 2025. 
 
