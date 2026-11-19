@@ -1,0 +1,19 @@
+#Ignore GenBank sequence files (general use)
+*.gb
+*.gbk
+*.gbff
+*.genbank
+
+#Ignore sequence and/or compressed file formats
+*.fasta
+*.fa
+*.fna
+*.fastq
+*.fq
+*.gz
+*.tar
+*.zip
+
+#Ignore GenBank sequences (specific use)
+data/*
+!data/.gitkeep
